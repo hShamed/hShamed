@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I am Shamed 👋
 
-<!--
-**hShamed/hShamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+and I am a **software developer** with strong passion for learning 👨‍💻!
 
-Here are some ideas to get you started:
+- 🛠️ I’m currently working on company and personal projects
+- 🌱 I’m currently learning OOP and GNU Linux
+- 👯 I’m looking to collaborate on Open Source Projects
+- 😶‍🌫️ Fun fact: I love mint chocolate ice cream
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacts
+
+[![Static Badge](https://img.shields.io/badge/Mail-f66151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.shamed.ar@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Linked%20In-99c1f1?style=for-the-badge&logo=linkedIn&logoColor=black)](https://www.linkedin.com/in/h-shamed-ar)
+
+
+## Stack
+
+![Static Badge](https://img.shields.io/badge/Java-ffbe6f?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
